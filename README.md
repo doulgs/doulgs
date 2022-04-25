@@ -1,5 +1,5 @@
 
-### Olá Eu sou o Douglas Domiciano 🖐️
+### Olá Eu sou o Douglas 🖐️
 
 [![Instagram](		https://img.shields.io/badge/Instagram-430098?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doulgs/)
 [![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/doulgs)
