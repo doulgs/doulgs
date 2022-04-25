@@ -25,4 +25,4 @@
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div></br>
 
-Apaixonado por Tecnologia e quando aprender mais a cada dia  
+Apaixonado por Tecnologia e querendo aprender mais a cada dia  
