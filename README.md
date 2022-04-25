@@ -1,12 +1,16 @@
 
-### Olá Eu sou o Douglas 🖐️
+### Olá Eu sou o Douglas Domiciano 🖐️
 
 [![Instagram](		https://img.shields.io/badge/Instagram-430098?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doulgs/)
 [![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/doulgs)
 [![Linkdin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/doulgs)
 [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/doulgs)
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=doulgs&show_icons=true&theme=tokyonight)
+ <div>
+  <a href="https://github.com/doulgs">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=doulgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doulgs&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 ## Tecnologias que uso no meu dia a dia
 
