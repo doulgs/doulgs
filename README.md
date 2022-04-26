@@ -27,7 +27,7 @@
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" height="150" width="150" alt="Rafa-yoda" src="https://media.giphy.com/media/aTf4PONtSYB1e/giphy.gif">
+  <img align="right" height="150" width="150" alt="Doulgs" src="https://media.giphy.com/media/aTf4PONtSYB1e/giphy.gif">
 </div>
 <div style="display: inline_block">
 <h2>Tecnoligioas que mais gosto</h2>
