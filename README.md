@@ -37,4 +37,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div></br>
 
-Apaixonado por Tecnologia e quando aprender mais a cada dia  
+Apaixonado por Tecnologia e querendo aprender mais a cada dia  
