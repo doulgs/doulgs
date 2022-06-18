@@ -5,7 +5,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Doulgs)
 [![Linkdin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-de-souza-domiciano-05a460181/)
 [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevDoulgs)
-[![Portifolio](	https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://twitter.com/DevDoulgs)
+[![Portifolio](	https://img.shields.io/badge/Portifolio-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://twitter.com/DevDoulgs)
+
 
  <div>
   <a href="https://github.com/doulgs">
