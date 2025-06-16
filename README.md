@@ -1,17 +1,17 @@
 
 ### Olá Eu sou o Douglas Domiciano 🖐️
 
-[![Instagram](		https://img.shields.io/badge/Instagram-7b4fb4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doulgs/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Doulgs)
+[![Instagram](		https://img.shields.io/badge/Instagram-7b4fb4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas-irrah/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/douglas-irrah)
 [![Linkdin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-de-souza-domiciano-05a460181/)
-[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevDoulgs)
-[![Portifolio](	https://img.shields.io/badge/Portifolio-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://doulgs.github.io/Portifolio/)
+[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Devdouglas-irrah)
+[![Portifolio](	https://img.shields.io/badge/Portifolio-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://douglas-irrah.github.io/Portifolio/)
 
 
  <div>
-  <a href="https://github.com/doulgs">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=doulgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doulgs&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://github.com/douglas-irrah">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=douglas-irrah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-irrah&layout=compact&langs_count=16&theme=tokyonight"/>
 
   
 </div>
@@ -30,7 +30,7 @@
   <img aling="center" alt="VueJs" src="https://img.shields.io/badge/Vue.js-41b883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" height="150" width="150" alt="Doulgs" src="https://media.giphy.com/media/aTf4PONtSYB1e/giphy.gif">
+  <img align="right" height="150" width="150" alt="douglas-irrah" src="https://media.giphy.com/media/aTf4PONtSYB1e/giphy.gif">
 </div>
 <div style="display: inline_block">
 <h2>Tecnoligioas que mais gosto</h2>
