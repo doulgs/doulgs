@@ -1,9 +1,16 @@
 ## 👋 Olá, eu sou o Douglas!<br><br>Sou **desenvolvedor Fullstack** com foco em construir sistemas **profissionais, escaláveis e organizados**. Curto resolver problemas complexos com soluções simples, bem estruturadas e com atenção total à experiência do usuário.<br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=douglas-irrah&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=douglas-irrah&theme=onedark&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=douglas-irrah&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=douglas-irrah&theme=onedark&hide_border=false" width="600" />
+  <br/><br/>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=douglas-irrah&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="400" height="200" />
+  </span>
+  <span style="display:inline-block; width: 20px;"></span>
+  <span>
+    <img src="https://github-contributor-stats.vercel.app/api?username=douglas-irrah&limit=5&theme=onedark&combine_all_yearly_contributions=true" width="400" height="200" />
+  </span>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=douglas-irrah&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
