@@ -1,22 +1,87 @@
-## 👋 Olá, eu sou o Douglas!<br><br>Sou **desenvolvedor Fullstack** com foco em construir sistemas **profissionais, escaláveis e organizados**. Curto resolver problemas complexos com soluções simples, bem estruturadas e com atenção total à experiência do usuário.<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gabriela&size=28&pause=1000&color=830CF7&center=true&vCenter=true&width=800&lines=Me+chamo+Douglas+Domiciano;FullStack+Developer;Solu%C3%A7%C3%B5es+simples+e+avan%C3%A7adas;UX+%26+UI+-+Em+primeiro+lugar" alt="Título do README" />
+</p>
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Doulgs&theme=onedark&hide_border=false" width="600" />
-  <br/><br/>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Doulgs&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="400" height="200" />
-  </span>
-  <span style="display:inline-block; width: 20px;"></span>
-  <span>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Doulgs&limit=5&theme=onedark&combine_all_yearly_contributions=true" width="400" height="200" />
-  </span>
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Doulgs&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+<p align="center">
+  Sou Desenvolvedor <strong>FullStack</strong> com foco em criar sistemas profissionais, escaláveis e bem estruturados.<br/>
+  Curto transformar problemas complexos em soluções simples, eficientes e centradas na experiência do usuário.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Doulgs&icon=2&color=7)](https://visitcount.itsvg.in)
+
+<h3 align="center">🏆 Conquistas 🏆 </h3>
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=doulgs&theme=shadow-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" width="600" alt="GitHub Streak" />
+<div align="center">
+ <img
+    src="https://github-readme-stats.vercel.app/api?username=doulgs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=9b59b6&text_color=cfcfcf&icon_color=9b59b6"
+    width="500"
+    alt="GitHub Demos"
+  />
+  <!-- </br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=doulgs&layout=compact&theme=transparent&hide_border=true&title_color=9b59b6&text_color=cfcfcf&icon_color=9b59b6"
+    width="400"
+    alt="Linguagens mais usadas"
+  />
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=irrahgroup&repo=delaware-dover&theme=transparent&hide_border=true&title_color=9b59b6&text_color=cfcfcf&icon_color=9b59b6"
+      width="400"
+      alt="Repositório Delaware Dover"
+    />&nbsp;&nbsp;
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=irrahgroup&repo=delaware-newark&theme=transparent&hide_border=true&title_color=9b59b6&text_color=cfcfcf&icon_color=9b59b6"
+      width="400"
+      alt="Repositório Delaware Newark"
+    />
+  </p> -->
+</div>
+  
+</div>
+
+---
+
+<h3 align="center">⚙️ Stacks ⚙️</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,react,nextjs,tailwind,electron,nodejs,express,spring,java,redis,postgresql,git,docker" height="60" alt="tech stack"/>
+</div>
+
+---
+
+<h3 align="center">💬 Onde me encontrar 💬</h3>
+<p align="center">
+  <a href="https://github.com/doulgs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/douglasdomiciano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://wa.me/5544988402772" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+  </a>&nbsp;
+  <a href="https://t.me/5544988402772" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
+  </a>&nbsp;
+  <a href="https://discordapp.com/users/doulgs" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
+  </a>&nbsp;
+  <a href="mailto:douglasdsdomiciano@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail%20(Pessoal)-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail pessoal"/>
+  </a>&nbsp;
+  <a href="mailto:douglas.domiciano@grupoirrah.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail%20(Trabalho)-B23121?style=flat-square&logo=gmail&logoColor=white&labelColor=B23121" alt="Gmail corporativo"/>
+  </a>&nbsp;
+  <a href="https://#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-4B0082?style=flat-square&logo=About.me&logoColor=white&labelColor=4B0082" alt="Portfólio"/>
+  </a>&nbsp;
+  <a href="https://#" target="_blank">
+    <img src="https://img.shields.io/badge/Site%20Empresarial-222222?style=flat-square&logo=google-chrome&logoColor=white&labelColor=222222" alt="Site empresarial"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💜🧠 <i>“Código é arte quando é escrito com propósito.”</i> 🧠💜
+</p>
